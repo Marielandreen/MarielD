@@ -1,3 +1,12 @@
+# 👨‍💻Engineer | Technologist
+
+**`(Engineer | Technologist (Aspiring Cybersecurity Engineer | Photographer)`**
+
+I'm a filipino engineer who pursued IT field 2 years ago from year 2020 and I am currently studying here in australia as an International Student
+taking up Advanced Diploma in Information Technology (Cybersecurity and Telecommunications Network Engineering). Also, I am currently working as 
+an IT Project Manager in a large telecommunication company - Telstra. Right now, I am more focus learning deep into Networking and Cybersecurity 
+field. 
+
 <h1 align="center">Hi 👋, I'm Mariel Delgado</h1>
 <h3 align="center">I'm passionate in Cybersecurity.</h3>
 <img align="right" alt="Coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
