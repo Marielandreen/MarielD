@@ -2,7 +2,7 @@
 
 
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Mariel%20Delgado%20,%20Engineer%20|%20IT%20👨‍💻%20&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Mariel%20Delgado%20|%20from%20👷🏻%20Engineer%20to%20IT%20👨‍💻%20&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 **`(Aspiring Cybersecurity Engineer | Photographer)`**
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
