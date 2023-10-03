@@ -1,15 +1,27 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Mariel%20Delgado%20|%20from%20👷🏻%20Engineer%20to%20IT%20👨‍💻%20&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Mariel%20Delgado%20|%20from%20👷🏻%20Engineer%20to%20IT%20👨‍💻%20&width=1000&height=100)](https://github.com/Akshay090/svg-banners)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<br><br><br>
+</div>
 
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
+<div align="center">
 
 ### Welcome to My GitHub
 I'm a filipino professional who shifted my career into IT industry. My eagerness and willingness to learn new things brought me in this industry. I'd like to build connections with professionals in telecommunications, networking & cybersecurity field. 
+
+</div>
+
+<br>
+
+
 
 ### 👨🏻‍💼 My Experiences:
 👉🏼 (2014-2020): Process Engineer (Manufacturing Industry) <br>
 👉🏼 (2021-2023): Technical Support (Telecommunication Company based in Australia) <br>
 👉🏼 (2023-Present): IT Project Manager (Telstra Business Technology Centre) <br>
+
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
 
 ### 📃 My Training & Certificates: 
 - (ISC)2 Certified in Cybersecurity
