@@ -1,10 +1,10 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Mariel%20Delgado%20|%20from%20👷🏻%20Engineer%20to%20IT%20👨‍💻%20&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
-**`(Aspiring Cybersecurity Engineer at the same time Photographer)`**
+
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
 
-### Hey Welcome to My GitHub. 
-I'm a filipino professional who shifted my career into IT industry. My eagerness and willingness to learn new things brought me in this industry.
+### Welcome to My GitHub
+I'm a filipino professional who shifted my career into IT industry. My eagerness and willingness to learn new things brought me in this industry. I'd like to build connections with professionals in telecommunications, networking & cybersecurity field. 
 
 ### 👨🏻‍💼 My Experiences:
 👉🏼 (2014-2020): Process Engineer (Manufacturing Industry) <br>
@@ -12,6 +12,11 @@ I'm a filipino professional who shifted my career into IT industry. My eagerness
 👉🏼 (2023-Present): IT Project Manager (Telstra Business Technology Centre) <br>
 
 ### 📃 My Training & Certificates: 
+- (ISC)2 Certified in Cybersecurity
+- CCNA 200-301 Bootcamp Training
+- AWS Academy Graduate - AWS Aademy Cloud Architecting
+- 3CX Basic Certified Engineer
+- Harmony Mobile, Email, & Endpoint Technical Specialist
 
 
 ### 👋🏼 Reach me @:
