@@ -38,7 +38,7 @@ I'm a filipino professional who shifted my career into IT industry. My eagerness
 
 
 ### 👋🏼 Reach me @:
-<a href="mailto: marielandreen.delgado@gmail.com"> <img src="https://img.shields.io/badge/marielandreen.delgado-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="skype: Mariel Andreen?call"> <img src="https://img.shields.io/badge/marielandreen-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" ></a> 
+<a href="mailto: marielandreen.delgado@gmail.com"> <img src="https://img.shields.io/badge/marielandreen.delgado-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="skype:live:marielandreen.delgado07?call"> <img src="https://img.shields.io/badge/marielandreen-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" ></a> 
 
 
 ### 🌎 Socials 
