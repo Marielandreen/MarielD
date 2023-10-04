@@ -8,7 +8,7 @@
 <div align="center">
 
 ### Welcome to My GitHub
-I'm a filipino professional who shifted my career into IT industry. My eagerness and willingness to learn new things brought me in this industry. I'd like to build connections with professionals in telecommunications, networking & cybersecurity field. 
+I'm a filipino professional who shifted my career into IT industry. My eagerness and willingness to learn new things brought me in this industry. I'd like to build connections with professionals involved in telecommunications, networking & cybersecurity field. 
 
 </div>
 
