@@ -31,6 +31,7 @@ I'm a filipino professional who shifted my career into IT industry. My eagerness
 
 ### 📃 My Training & Certificates: 
 - (ISC)2 Certified in Cybersecurity
+- (OPSWAT) Introduction to Critical Infrastructure Protection
 - CCNA 200-301 Bootcamp Training
 - AWS Academy Graduate - AWS Academy Cloud Architecting
 - 3CX Basic Certified Engineer
