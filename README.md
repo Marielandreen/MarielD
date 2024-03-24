@@ -23,20 +23,24 @@ I'm a filipino professional who shifted my career into IT industry. My eagerness
 
 
 ### 👨🏻‍💼 My Experiences:
-👉🏼 (Nov 2014-May 2021): Process Engineer (Manufacturing Industry) <br>
-👉🏼 (May 2021-April 2023): Technical Support (Telecommunication Company based in Australia) <br>
+👉🏼 (Nov 2014-May 2021): Process Engineer/Production Engineer/New Product Engineer (Manufacturing Industry) <br>
+👉🏼 (May 2021-April 2023): Technical Support (Hubify Limited) <br>
 👉🏼 (April 2023-Present): Project Delivery Specialist (Telstra Limited) <br>
 
 
 
 ### 📃 My Training & Certificates: 
+Cybersecurity
 - (ISC)2 Certified in Cybersecurity
 - (OPSWAT) Introduction to Critical Infrastructure Protection
+- Harmony Mobile, Email, & Endpoint Technical Specialist <br>
+Network
 - CCNA 200-301 Bootcamp Training
-- AWS Academy Graduate - AWS Academy Cloud Architecting
+- AWS Academy Graduate - AWS Academy Cloud Architecting <br>
+VoIP
 - 3CX Basic Certified Engineer
-- Harmony Mobile, Email, & Endpoint Technical Specialist
-- Scrum Foundation Certified
+Project Management
+- Scrum Foundation Certified (SFC™)
 
 
 ### 👋🏼 Reach me @:
