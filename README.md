@@ -34,11 +34,14 @@ Cybersecurity
 - (ISC)2 Certified in Cybersecurity
 - (OPSWAT) Introduction to Critical Infrastructure Protection
 - Harmony Mobile, Email, & Endpoint Technical Specialist <br>
-Network
+
+Network/Cloud
 - CCNA 200-301 Bootcamp Training
 - AWS Academy Graduate - AWS Academy Cloud Architecting <br>
-VoIP
+
+Voice over IP (VoIP)
 - 3CX Basic Certified Engineer
+
 Project Management
 - Scrum Foundation Certified (SFC™)
 
