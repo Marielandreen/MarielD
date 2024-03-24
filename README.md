@@ -23,9 +23,9 @@ I'm a filipino professional who shifted my career into IT industry. My eagerness
 
 
 ### 👨🏻‍💼 My Experiences:
-👉🏼 (2014-2020): Process Engineer (Manufacturing Industry) <br>
-👉🏼 (2021-2023): Technical Support (Telecommunication Company based in Australia) <br>
-👉🏼 (2023-Present): IT Project Manager (Telstra Business Technology Centre) <br>
+👉🏼 (Nov 2014-May 2021): Process Engineer (Manufacturing Industry) <br>
+👉🏼 (May 2021-April 2023): Technical Support (Telecommunication Company based in Australia) <br>
+👉🏼 (April 2023-Present): Project Delivery Specialist (Telstra Limited) <br>
 
 
 
@@ -36,6 +36,7 @@ I'm a filipino professional who shifted my career into IT industry. My eagerness
 - AWS Academy Graduate - AWS Academy Cloud Architecting
 - 3CX Basic Certified Engineer
 - Harmony Mobile, Email, & Endpoint Technical Specialist
+- Scrum Foundation Certified
 
 
 ### 👋🏼 Reach me @:
